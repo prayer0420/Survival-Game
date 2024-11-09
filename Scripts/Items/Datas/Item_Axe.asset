@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d4b62055ff19854f9688b7b4c2e1cfd, type: 3}
+  m_Name: Item_Axe
+  m_EditorClassIdentifier: 
+  itemId: 3
+  itemName: "\uB3C4\uB07C"
+  description: "\uB098\uBB34\uB97C \uBCA8 \uC218 \uC788\uB294 \uB3C4\uB07C\uC785\uB2C8\uB2E4."
+  icon: {fileID: 21300000, guid: 1d650563a2669124f9382f4b27561994, type: 3}
+  itemType: 2
+  dropPrefab: {fileID: 294733936887348005, guid: ca8ea8f8ca54e744bada70cf72bdab80,
+    type: 3}
+  isStack: 0
+  maxStackAmount: 1
+  isCraftable: 1
+  craftDatas:
+  - material: {fileID: 11400000, guid: 6a228e1d7cd775f4a8f70f384fc52aab, type: 2}
+    needCount: 1
+  - material: {fileID: 11400000, guid: bbaabac1c2dde1a4c86c5a9f6eaf5c79, type: 2}
+    needCount: 1
+  isConsumable: 0
+  consumableDatas: []
+  buffDatas: []
+  equipType: 1
+  equipPrefab: {fileID: 27691870098527450, guid: 2a80ccd3a4c5a644f8e4933bf91569bf,
+    type: 3}
+  equipDatas:
+  - statusType: 0
+    value: 10
