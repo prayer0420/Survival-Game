@@ -1,5 +1,7 @@
 # SprataSurvival 
 
+<video src="https://drive.google.com/file/d/1bRhf1dtJDfPNp6Bp1XSj71hefJPXJXsw/view" controls></video>
+
 ## 🎤프로젝트 소개
 🏠건축하고! 🌳채집하고! 🐴사냥해서 살아남자!! 초보 모험가의 생존 서바이벌!! <br>
 <img width = 400px src = "https://github.com/user-attachments/assets/ea68b16c-fa59-4e33-936c-c04652b78f36"><br>
